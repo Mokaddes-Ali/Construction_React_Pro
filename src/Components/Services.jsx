@@ -4,6 +4,7 @@ import { allservices } from '../Data/export';
 
 const Services = () => {
   return (
+    <>
     <div className="w-full bg-white">
       <motion.div
         initial="hidden"
@@ -59,6 +60,7 @@ const Services = () => {
         </motion.div>
       </motion.div>
     </div>
+    </>
   );
 };
 

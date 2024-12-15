@@ -13,6 +13,7 @@ export const slideUpVariants = {
   },
 };
 
+
 export const zoomInVariants = {
   hidden: { scale: 0.5, opacity: 0 }, // Start smaller with no opacity
   visible: {
